@@ -19,8 +19,11 @@ You'll also need to add `SECRET_KEY` to the .env file for JWT Authentication.
 
 Run the command `go run main.go` and the project should run on `locahost:8080`
 
-# License
+# Repo Push Action
 
-This project is licensed under the terms of the MIT license.
+Placeholder
 
-Original project: https://github.com/dogukanozdemir/golang-todo-mongodb
+# Original
+
+Original project: https://github.com/jeffthorne/tasky
+
