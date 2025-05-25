@@ -26,4 +26,3 @@ Placeholder
 # Original
 
 Original project: https://github.com/jeffthorne/tasky
-
